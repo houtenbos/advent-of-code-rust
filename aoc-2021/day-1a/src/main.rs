@@ -16,4 +16,5 @@ fn main() {
     }
 
     println!("Submarine depth increased {} times", increases);
+
 }
